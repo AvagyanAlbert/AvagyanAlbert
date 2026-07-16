@@ -68,11 +68,3 @@ A cross-platform expense management app built with **.NET MAUI**, featuring MVVM
 
 </td>
 <td width="50%">
-
-**More coming soon...**
-
-Currently working on adding unit tests and deployed demos to my existing projects.
-
-</td>
-</tr>
-</table>
