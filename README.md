@@ -10,8 +10,8 @@
 ### 🚀 About Me
 
 - 🔭 I'm currently building applications with **ASP.NET Core**, **Entity Framework Core**, **WPF**, and **.NET MAUI**
-- 🌱 Currently sharpening my skills in **async/await patterns**, **Clean Architecture**, and **cross-platform development**
-- 💼 6 months of hands-on experience building real-world CRUD systems, desktop apps, and mobile-ready solutions
+- 🌱 Currently sharpening my skills in **async/await patterns**, **Microservices Architecture**, and **cross-platform development**
+- 💼 Hands-on experience building real-world CRUD systems, desktop apps, and mobile-ready solutions
 - 🎯 Looking for a Junior .NET Developer role where I can grow and contribute from day one
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/albert-avagyan/)
 
